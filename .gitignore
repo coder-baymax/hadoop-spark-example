@@ -2,3 +2,5 @@
 data/*.csv
 hadoop/output/
 hadoop/calculator/target/
+spark/calculator/target/
+spark/output/
